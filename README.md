@@ -3,7 +3,7 @@ In repository, lab-samples, I will be sharing code, and resources for making ama
 
 1. Arduino Uno R3
 
-2. Arduino Uno R4 WIFI and BLUTOOTH
+2. Arduino Uno R4 WIFI and BLUETOOTH
 
 3. ESP32
 
