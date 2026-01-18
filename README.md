@@ -5,6 +5,6 @@ In repository, lab-samples, I will be sharing code, and resources for making ama
 
 2. Arduino Uno R4 WI-FI and BLUETOOTH
 
-Most of the code is compatable with all microcontrollers, and the rest is on WI-FI/ Bluetooth. I would prefer buying the Arduino UNO R4 WIFI  becuase the Arduio UNO R4 WIFI is a better version of Arduino UNO R3 and has a ESP32S3 for WIFI, Bluetooth, and  BLE (Bluetooth Low Energy). All programs are compatable with Arduino UNO R4 WIFI. Some programers are compatable with Arduino UNO R3, while the rest are compatable with WI-FI and Bluetooth emmbeded modules. 
+Most of the code is compatable with all microcontrollers, and the rest is on WI-FI/ Bluetooth. I would prefer buying the Arduino UNO R4 WIFI  becuase the Arduio UNO R4 WIFI is a better version of Arduino UNO R3 and has a ESP32S3 for WIFI, Bluetooth, and  BLE (Bluetooth Low Energy). All programs are compatable with Arduino UNO R4 WIFI. Some programers are compatable with Arduino UNO R3, while the rest are compatable with WI-FI and Bluetooth emmbeded modules.
 
 Happy coding!
