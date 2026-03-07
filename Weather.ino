@@ -6,7 +6,7 @@
 // --- CONFIGURATION ---
 const char* ssid = "YOUR_WIFI_NAME";
 const char* pass = "YOUR_WIFI_PASSWORD";
-const char* serverIP = "169.197.141.196"; // IP for api.OpenWeatherMap.org
+const char* serverIP = "Enter the IP of api.OpenWeatherMap.org"; // IP for api.OpenWeatherMap.org
 String apiKey = "Enter_API_key"; //Make a Free api key on OpenWeatherMap.org. Remember only 1,000,000 free monthly limit. This code ensures that you will not be charged
 String city ="CITY:Name,Country initials"; //EX: "London,uk" 
 
